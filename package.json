@@ -23,7 +23,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zero-to-mastery/face-rec-app.git"
+    "url": "git+https://yocamyo.github.io/FaceRecognition"
   },
   "author": "ZTM",
   "license": "MIT",
